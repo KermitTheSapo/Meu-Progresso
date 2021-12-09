@@ -1,2 +1,2 @@
-# Meu-Progresso
+# Meu Progresso
 Descrevendo meu progresso de ensino.
