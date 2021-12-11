@@ -1,5 +1,0 @@
-Hoje, completei meu curso da DIO, sobre "introdução ao Git e ao GitHub", com carga horária de 5 horas. e dei inicio a um repertorio chamado "Meu-Progresso", com o objetivo de anotar todas minhas conquistar dia por dia. 
-
--------------
-
-Today, I completed my DIO course on "Introduction to Git and GitHub", with a workload of 5 hours. and I started a repertoire called "Meu-Progresso", in order to write down all my achievements day by day.
