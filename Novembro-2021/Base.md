@@ -1,1 +1,0 @@
-- No dia **29/11/2021** - Conclui o **"Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS]"** (Sem certificado) oferecido pelo **Curso em Video** (Curso em Vídeo é uma empresa brasileira legalmente estabelecida e presta serviços educacionais a distância e consultoria para empresas)
