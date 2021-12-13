@@ -5,6 +5,7 @@
 - No dia **07/12/2021** - Conclui o curso **"Aprenda o que são Estrutura de Dados e Algoritmos"** pela **Dio**.
 - No dia **09/12/2021** - Completei meu curso da DIO, sobre **"introdução ao Git e ao GitHub"**, com carga horária de 5 horas
 - No dia **09/12/2021** -  Dei inicio a um repertorio no **GitHub** chamado **"Meu-Progresso"**, com o objetivo de anotar todas minhas conquistar dia por dia. 
+- No dia **13/12/2021** - Conclui o curso **"Introdução a criação de websites com HTML5 e CSS3"** com carga horaria de 6 horas, realizado na **DIO**.
 
 -----------------
 
@@ -15,3 +16,5 @@
 - On **12/07/2021** - Completes the course **"Learn about Data Structure and Algorithms"** by **Dio**.
 - On **12/09/2021** - I completed my DIO course on **"introduction to Git and GitHub"**, with a workload of 5 hours
 - On **12/09/2021** - I started a repertoire on **GitHub** called **"Meu-Progresso"**, with the objective of writing down all my achievements day by day.
+
+- On **12/13/2021** - Completes the course **"Introduction to creating websites with HTML5 and CSS3"** with a 6-hour workload, held at **DIO**.
