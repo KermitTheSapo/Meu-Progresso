@@ -10,6 +10,7 @@
 - No dia **13/12/2021** - Criei e conclui um repertorio no **GitHub** chamado **"Aula_bootstrap"** (https://github.com/KermitTheSapo/aula_bootstrap)
 - No dia **14/12/2021** - Conclui o curso **"IDE Instalação e Configuração (Visual Studio Code)"** com carga horaria de 2 horas, realizado na **DIO**.
 - No dia **14/12/2021** - Conclui o curso **"Introdução ao JavaScript"** com carga horaria de 3 horas, realizado na **DIO**.
+- No dia 15/12/2021 - Conclui o curso **"Sintaxe Básica em JavaScript"** com carga horaria de 2 horas, realizado na **DIO**.
 
 -----------------
 
@@ -21,7 +22,8 @@
 - On **12/09/2021** - I completed my DIO course on **"introduction to Git and GitHub"**, with a workload of 5 hours
 - On **12/09/2021** - I started a repertoire on **GitHub** called **"Meu-Progresso"**, with the objective of writing down all my achievements day by day.
 - On **12/13/2021** - Completes the course **"Introduction to creating websites with HTML5 and CSS3"** with a 6-hour workload, held at **DIO**.
-- On **13/12/2021** - Completes the course **"Building Internet Pages with Bootstrap"** with a workload of 4 hours, held at **DIO**.
-- On **13/12/2021** - I created and completed a repertoire on **GitHub** called **"Aula_bootstrap"** (https://github.com/KermitTheSapo/aula_bootstrap)
-- On **14/12/2021** - Completes the course **"IDE Installation and Configuration (Visual Studio Code)"** with a workload of 2 hours, held at **DIO**.
-- On **14/12/2021** - Completes the course **"Introduction to JavaScript"** with a workload of 3 hours, held at **DIO**.
+- On **12/13/2021** - Completes the course **"Building Internet Pages with Bootstrap"** with a workload of 4 hours, held at **DIO**.
+- On **12/13/2021** - I created and completed a repertoire on **GitHub** called **"Aula_bootstrap"** (https://github.com/KermitTheSapo/aula_bootstrap)
+- On **12/14/2021** - Completes the course **"IDE Installation and Configuration (Visual Studio Code)"** with a workload of 2 hours, held at **DIO**.
+- On **12/14/2021** - Completes the course **"Introduction to JavaScript"** with a workload of 3 hours, held at **DIO**.
+- On **12/15/2021** - Complete the course **"Basic JavaScript Syntax"** with a workload of 2 hours, held at **DIO**.
