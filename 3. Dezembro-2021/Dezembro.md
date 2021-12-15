@@ -12,6 +12,8 @@
 - No dia **14/12/2021** - Conclui o curso **"Introdução ao JavaScript"** com carga horaria de 3 horas, realizado na **DIO**.
 - No dia **15/12/2021** - Conclui o curso **"Sintaxe Básica em JavaScript"** com carga horaria de 2 horas, realizado na **DIO**.
 - No dia **15/12/2021** - Conclui o curso **"Sintaxe e Operadores"** com carga horaria de 2 horas, realizado na **DIO**.
+- No dia **15/12/2021** - Criei um repertorio chamado **"Calculadora"**, onde dentro contido um arquivo **.js** que programei para ser uma Calculadora.
+- No dia **15/12/2021** - Criei um repertorio chamado **"Comparador-de-Números"** onde dentro contido arquivo **.js** que programei para ser um comparador de Números.
 
 -----------------
 
@@ -29,3 +31,5 @@
 - On **12/14/2021** - Completes the course **"Introduction to JavaScript"** with a workload of 3 hours, held at **DIO**.
 - On **12/15/2021** - Complete the course **"Basic JavaScript Syntax"** with a workload of 2 hours, held at **DIO**.
 - On **12/15/2021** - Completes the course **"Syntax and Operators"** with a workload of 2 hours, held at **DIO**.
+- On the day **12/152021** - I created a repertoire called **"Calculator"**, which contained a **.js** file that I programmed to be a Calculator.
+- On the day **12/15/2021** - I created a repertoire called **"Number Comparator"** which contained the **.js** file that I programmed to be a Number comparer.
