@@ -10,7 +10,8 @@
 - No dia **13/12/2021** - Criei e conclui um repertorio no **GitHub** chamado **"Aula_bootstrap"** (https://github.com/KermitTheSapo/aula_bootstrap)
 - No dia **14/12/2021** - Conclui o curso **"IDE Instalação e Configuração (Visual Studio Code)"** com carga horaria de 2 horas, realizado na **DIO**.
 - No dia **14/12/2021** - Conclui o curso **"Introdução ao JavaScript"** com carga horaria de 3 horas, realizado na **DIO**.
-- No dia 15/12/2021 - Conclui o curso **"Sintaxe Básica em JavaScript"** com carga horaria de 2 horas, realizado na **DIO**.
+- No dia **15/12/2021** - Conclui o curso **"Sintaxe Básica em JavaScript"** com carga horaria de 2 horas, realizado na **DIO**.
+- No dia **15/12/2021** - Conclui o curso **"Sintaxe e Operadores"** com carga horaria de 2 horas, realizado na **DIO**.
 
 -----------------
 
@@ -27,3 +28,4 @@
 - On **12/14/2021** - Completes the course **"IDE Installation and Configuration (Visual Studio Code)"** with a workload of 2 hours, held at **DIO**.
 - On **12/14/2021** - Completes the course **"Introduction to JavaScript"** with a workload of 3 hours, held at **DIO**.
 - On **12/15/2021** - Complete the course **"Basic JavaScript Syntax"** with a workload of 2 hours, held at **DIO**.
+- On **12/15/2021** - Completes the course **"Syntax and Operators"** with a workload of 2 hours, held at **DIO**.
