@@ -14,6 +14,7 @@
 - No dia **15/12/2021** - Conclui o curso **"Sintaxe e Operadores"** com carga horaria de 2 horas, realizado na **DIO**.
 - No dia **15/12/2021** - Criei um repertorio chamado **"Calculadora"**, onde dentro contido um arquivo **.js** que programei para ser uma Calculadora.
 - No dia **15/12/2021** - Criei um repertorio chamado **"Comparador-de-Números"** onde dentro contido arquivo **.js** que programei para ser um comparador de Números.
+- No dia **16/12/2021** - Conclui o curso **"Variáveis e Tipos"** com carga horaria de 3 horas e realizado pela **DIO**.
 
 -----------------
 
@@ -33,3 +34,4 @@
 - On **12/15/2021** - Completes the course **"Syntax and Operators"** with a workload of 2 hours, held at **DIO**.
 - On the day **12/152021** - I created a repertoire called **"Calculator"**, which contained a **.js** file that I programmed to be a Calculator.
 - On the day **12/15/2021** - I created a repertoire called **"Number Comparator"** which contained the **.js** file that I programmed to be a Number comparer.
+- On **12/16/2021** - Completes the course **"Variables and Types"** with a workload of 3 hours and carried out by **DIO**.
