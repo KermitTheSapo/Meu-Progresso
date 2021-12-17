@@ -1,4 +1,7 @@
-- No dia **03/12/2021** - Comecei o **Bootcamp MRV**
+- No dia **01/12/2021** - Assisti a terceira aula (Dia 3) do curso online **"Primeiros Passos na Programação"**, oferecido pela **Trybe.**
+- No dia **02/12/2021** - Assisti a quarta aula (Dia 4) do curso online **"Primeiros Passos na Programação"**, oferecido pela **Trybe**.
+- No dia **02/12/2021** - Conclui o curso online **"Primeiros Passos na Programação"** com a **Trybe**, nos dias 29 e 30 de novembro e 01 e 02 de dezembro de 2021, com duração total de 8 horas.
+- No dia **03/12/2021** - Comecei o **Bootcamp MRV**.
 - No dia **04/12/2021** - Conclui o Curso **"Lógica de Programação Essencial"** oferecido pela Dio.
 - No dia **04/12/2021** - Conclui o curso **"Hour Of Code"** oferecido pela **Code.org** (A Code.org é apoiada por doadores generosos, incluindo a Amazon, o Facebook, o Google, a Infosys Foundation, a Microsoft e muitos outros.)
 - No dia **06/12/2021** - Conclui o **Curso introdutório de JavaScript** gratuito oferecido pela **Trybe** ("Somos uma escola de desenvolvimento web que tem comprometimento genuíno com o sucesso profissional de quem estuda conosco.").
@@ -18,6 +21,9 @@
 
 -----------------
 
+- On **12/01/2021** - I attended the third class (Day 3) of the online course **"First Steps in Programming"**, offered by **Trybe.**
+- On **12/02/2021** - I attended the fourth class (Day 4) of the online course **"First Steps in Programming"**, offered by **Trybe**.
+- On **12/02/2021** - Complete the online course **"First Steps in Programming"** with the **Trybe**, on November 29th and 30th and December 1st and 2nd, 2021 , with a total duration of 8 hours.
 - On **12/03/2021** - I started the **Bootcamp MRV**
 - On **12/04/2021** - Completes the Course **"Essential Programming Logic"** offered by Dio.
 - On **12/04/2021** - Completes the **"Hour Of Code"** course offered by **Code.org** (Code.org is supported by generous donors including Amazon, the Facebook, Google, Infosys Foundation, Microsoft and many others.)
