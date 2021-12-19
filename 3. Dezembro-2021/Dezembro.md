@@ -18,6 +18,8 @@
 - No dia **15/12/2021** - Criei um repertorio chamado **"Calculadora"**, onde dentro contido um arquivo **.js** que programei para ser uma Calculadora.
 - No dia **15/12/2021** - Criei um repertorio chamado **"Comparador-de-Números"** onde dentro contido arquivo **.js** que programei para ser um comparador de Números.
 - No dia **16/12/2021** - Conclui o curso **"Variáveis e Tipos"** com carga horaria de 3 horas e realizado pela **DIO**.
+- No dia **19/12/2021** - Personalizei meu perfil no **GitHub** para ficar visualmente mais atraente.
+- No dia **19/12/2021** - Conclui o curso **"Funções"** com carga horaria de 1 horas e realizado pela **DIO**.
 
 -----------------
 
