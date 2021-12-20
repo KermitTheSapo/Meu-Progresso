@@ -20,6 +20,7 @@
 - No dia **16/12/2021** - Conclui o curso **"Variáveis e Tipos"** com carga horaria de 3 horas e realizado pela **DIO**.
 - No dia **19/12/2021** - Personalizei meu perfil no **GitHub** para ficar visualmente mais atraente.
 - No dia **19/12/2021** - Conclui o curso **"Funções"** com carga horaria de 1 horas e realizado pela **DIO**.
+- No dia **19/12/2021** - Conclui o curso **"Coleções"** com carga horaria de 1 horas e realizado pela **DIO**.
 
 -----------------
 
@@ -43,3 +44,6 @@
 - On the day **12/152021** - I created a repertoire called **"Calculator"**, which contained a **.js** file that I programmed to be a Calculator.
 - On the day **12/15/2021** - I created a repertoire called **"Number Comparator"** which contained the **.js** file that I programmed to be a Number comparer.
 - On **12/16/2021** - Completes the course **"Variables and Types"** with a workload of 3 hours and carried out by **DIO**.
+- \- On **12/19/122021** - Customized my profile on **GitHub** to make it more visually appealing. 
+- On **12/19/2021** - Completes the course **"Functions"** with a workload of 1 hour and carried out by **DIO**. 
+- On **12/19/2021** - Completes the course **"Collections"** with a workload of 1 hour and carried out by **DIO**.
