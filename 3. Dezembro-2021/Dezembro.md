@@ -22,6 +22,7 @@
 - No dia **19/12/2021** - Conclui o curso **"Funções"** com carga horaria de 1 horas e realizado pela **DIO**.
 - No dia **19/12/2021** - Conclui o curso **"Coleções"** com carga horaria de 1 horas e realizado pela **DIO**.
 - No dia **20/12/2021** - Conclui o curso **"Debugging e Error Handling"** com carga horaria de 2 horas e realizado pela **DIO**.
+- No dia **21/12/2021** - Conclui o curso **"Javascript Assíncrono"** com carga horaria de 1 horas e realizado pela **DIO**. 
 
 -----------------
 
@@ -49,3 +50,4 @@
 - On **12/19/2021** - Completes the course **"Functions"** with a workload of 1 hour and carried out by **DIO**. 
 - On **12/19/2021** - Completes the course **"Collections"** with a workload of 1 hour and carried out by **DIO**.
 - On **12/20/2021** - Complete the course **"Debugging and Error Handling"** with a workload of 2 hours and carried out by **DIO**.
+- No dia **12/21/2021 ** - Conclui o curso **"Javascript Assíncrono"** com carga horária de 1 horas e realizado pela **DIO**.
