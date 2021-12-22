@@ -2,10 +2,10 @@
 - No dia **02/12/2021** - Assisti a quarta aula (Dia 4) do curso online **"Primeiros Passos na Programação"**, oferecido pela **Trybe**.
 - No dia **02/12/2021** - Conclui o curso online **"Primeiros Passos na Programação"** com a **Trybe**, nos dias 29 e 30 de novembro e 01 e 02 de dezembro de 2021, com duração total de 8 horas.
 - No dia **03/12/2021** - Comecei o **Bootcamp MRV**.
-- No dia **04/12/2021** - Conclui o Curso **"Lógica de Programação Essencial"** oferecido pela Dio.
+- No dia **04/12/2021** - Conclui o Curso **"Lógica de Programação Essencial"** com carga horária de 4 horas, oferecido pela Dio.
 - No dia **04/12/2021** - Conclui o curso **"Hour Of Code"** oferecido pela **Code.org** (A Code.org é apoiada por doadores generosos, incluindo a Amazon, o Facebook, o Google, a Infosys Foundation, a Microsoft e muitos outros.)
 - No dia **06/12/2021** - Conclui o **Curso introdutório de JavaScript** gratuito oferecido pela **Trybe** ("Somos uma escola de desenvolvimento web que tem comprometimento genuíno com o sucesso profissional de quem estuda conosco.").
-- No dia **07/12/2021** - Conclui o curso **"Aprenda o que são Estrutura de Dados e Algoritmos"** pela **Dio**.
+- No dia **07/12/2021** - Conclui o curso **"Aprenda o que são Estrutura de Dados e Algoritmos"**, com carga horária de 2 horas pela **Dio**.
 - No dia **09/12/2021** - Completei meu curso da DIO, sobre **"introdução ao Git e ao GitHub"**, com carga horária de 5 horas
 - No dia **09/12/2021** -  Dei inicio a um repertorio no **GitHub** chamado **"Meu-Progresso"**, com o objetivo de anotar todas minhas conquistar dia por dia. 
 - No dia **13/12/2021** - Conclui o curso **"Introdução a criação de websites com HTML5 e CSS3"** com carga horária de 6 horas, realizado na **DIO**.
@@ -23,6 +23,10 @@
 - No dia **19/12/2021** - Conclui o curso **"Coleções"** com carga horaria de 1 horas e realizado pela **DIO**.
 - No dia **20/12/2021** - Conclui o curso **"Debugging e Error Handling"** com carga horaria de 2 horas e realizado pela **DIO**.
 - No dia **21/12/2021** - Conclui o curso **"Javascript Assíncrono"** com carga horaria de 1 horas e realizado pela **DIO**. 
+- No dia **22/12/2021** - Conclui o curso **"Orientação a objetos"** com carga horaria de 1 horas e realizado pela **DIO**. 
+- No dia **22/12/2021** - Conclui o curso **"Map, Filter e Reduce"** com carga horaria de 2 horas e realizado pela **DIO**. 
+
+**Estimativa da Carga Horaria Total: 49 horas**
 
 -----------------
 
@@ -46,8 +50,12 @@
 - On the day **12/152021** - I created a repertoire called **"Calculator"**, which contained a **.js** file that I programmed to be a Calculator.
 - On the day **12/15/2021** - I created a repertoire called **"Number Comparator"** which contained the **.js** file that I programmed to be a Number comparer.
 - On **12/16/2021** - Completes the course **"Variables and Types"** with a workload of 3 hours and carried out by **DIO**.
-- \- On **12/19/122021** - Customized my profile on **GitHub** to make it more visually appealing. 
+- On **12/19/122021** - Customized my profile on **GitHub** to make it more visually appealing. 
 - On **12/19/2021** - Completes the course **"Functions"** with a workload of 1 hour and carried out by **DIO**. 
 - On **12/19/2021** - Completes the course **"Collections"** with a workload of 1 hour and carried out by **DIO**.
 - On **12/20/2021** - Complete the course **"Debugging and Error Handling"** with a workload of 2 hours and carried out by **DIO**.
-- No dia **12/21/2021 ** - Conclui o curso **"Javascript Assíncrono"** com carga horária de 1 horas e realizado pela **DIO**.
+- On **12/21/2021 ** - Completes the course **"Asynchronous JavaScript"** with a workload of 1 hour and carried out by **DIO**.
+- On **12/22/2021** - Completes the course **"Object Orientation"** with a workload of 1 hour and carried out by **DIO**.
+- On **12/22/2021** - Completes the course **"Map, Filter and Reduce"** with a workload of 2 hours and carried out by **DIO**.
+
+**Estimated workload Hours: 49 hours**
