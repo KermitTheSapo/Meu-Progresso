@@ -25,9 +25,10 @@
 - No dia **21/12/2021** - Conclui o curso **"Javascript Assíncrono"** com carga horaria de 1 horas e realizado pela **DIO**. 
 - No dia **22/12/2021** - Conclui o curso **"Orientação a objetos"** com carga horaria de 1 horas e realizado pela **DIO**. 
 - No dia **22/12/2021** - Conclui o curso **"Map, Filter e Reduce"** com carga horaria de 2 horas e realizado pela **DIO**. 
-- No dia **22/12/2021** - Conclui o curso **"Manipulando a D.O.M. com JavaScript"** com carga horaria de 1 horas e realizado pela **DIO**. 
+- No dia **22/12/2021** - Conclui o curso **"Manipulando a D.O.M. com JavaScript"** com carga horaria de 1 horas e realizado pela **DIO**.
+- No dia **22/12/2021** - Conclui o curso **"Resolvendo Desafios de Código"** com carga horaria de 1 horas e realizado pela **DIO**.
 
-**Estimativa da Carga Horaria Total: 50 horas**
+**Estimativa da Carga Horaria Total: 51 horas**
 
 -----------------
 
@@ -59,5 +60,6 @@
 - On **12/22/2021** - Completes the course **"Object Orientation"** with a workload of 1 hour and carried out by **DIO**.
 - On **12/22/2021** - Completes the course **"Map, Filter and Reduce"** with a workload of 2 hours and carried out by **DIO**.
 - On **12/22/2021** - Completes the course **"Manipulating D.O.M. with JavaScript"** with a workload of 1 hour and carried out by **DIO**.
+- On **12/22/2021** - Completes the course **"Solving Code Challenges"** with a workload of 1 hour and carried out by **DIO**.
 
-**Estimated workload Hours: 50 hours**
+**Estimated workload Hours: 51 hours**
