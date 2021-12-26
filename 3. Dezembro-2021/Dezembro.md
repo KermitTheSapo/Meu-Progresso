@@ -28,8 +28,9 @@
 - No dia **22/12/2021** - Conclui o curso **"Manipulando a D.O.M. com JavaScript"** com carga horaria de 1 horas e realizado pela **DIO**.
 - No dia **22/12/2021** - Conclui o curso **"Resolvendo Desafios de Código"** com carga horaria de 1 horas e realizado pela **DIO**.
 - No dia **25/12/2021** - Conclui o curso **"Construindo o seu primeiro jogo de naves"** com carga horaria de 5 horas e realizado pela **DIO**.
+- No dia **26/12/2021** - Conclui o curso **"SQL SERVER - Criando suas primeiras consultas"** com carga horaria de 4 horas e realizado pela **DIO**.
 
-**Estimativa da Carga Horaria Total: 56 horas**
+**Estimativa da Carga Horaria Total: 60 horas**
 
 -----------------
 
@@ -63,5 +64,6 @@
 - On **12/22/2021** - Completes the course **"Manipulating D.O.M. with JavaScript"** with a workload of 1 hour and carried out by **DIO**.
 - On **12/22/2021** - Completes the course **"Solving Code Challenges"** with a workload of 1 hour and carried out by **DIO**.
 - On **12/25/2021** - Complete the course **"Building your first spaceship game"** with a workload of 5 hours and carried out by **DIO**.
+- On **12/26/2021** - Completes the course **"SQL SERVER - Creating your first queries"** with a workload of 4 hours and performed by **DIO**.
 
-**Estimated workload Hours: 56 hours**
+**Estimated workload Hours: 60 hours**
