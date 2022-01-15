@@ -7,8 +7,9 @@
 - No dia **13/01/2022** - Conclui o curso **"Trabalhando com Componentes em React"** com carga horaria de 2 horas e realizado pela **DIO**.
 - No dia **13/01/2022** - Conclui o curso **"Introdução aos React Hooks"** com carga horaria de 5 horas e realizado pela **DIO**.
 - No dia **14/01/2022** - Conclui o curso **"Trabalhando com States & Effects no ReactJs"** com carga horaria de 2 horas e realizado pela **DIO**.
+- No dia **15/01/2022** - Conclui o curso **"Projetos ágeis com SCRUM"** com carga horaria de 2 horas e realizado pela **DIO**.
 
-**Estimativa da Carga Horaria Total: 35 horas**
+**Estimativa da Carga Horaria Total: 37 horas**
 
 -----------------
 **January**
@@ -20,5 +21,6 @@
 - On **01/13/2022** - Completed the course **"Working with Components in React"** with a workload of 2 hours and carried out by **DIO**.
 - On **01/13/2022** - Completed the course **"Introduction to React Hooks"** with a workload of 5 hours and carried out by **DIO**.
 - On **01/14/2022** - Completed the course **"Working with States & Effects in ReactJs"** with a workload of 2 hours and carried out by **DIO**.
+- On **01/15/2022** - Completed the course **"Agile Projects with SCRUM"** with a workload of 2 hours and carried out by **DIO**.
 
-**Estimated workload Hours: 35 hours**
+**Estimated workload Hours: 37 hours**
