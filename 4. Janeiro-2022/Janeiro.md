@@ -9,8 +9,9 @@
 - No dia **14/01/2022** - Conclui o curso **"Trabalhando com States & Effects no ReactJs"** com carga horaria de 2 horas e realizado pela **DIO**.
 - No dia **15/01/2022** - Conclui o curso **"Projetos ágeis com SCRUM"** com carga horaria de 2 horas e realizado pela **DIO**.
 - No dia **16/01/2022** - Conclui o curso **"Recriando a Interface do Netflix"** com carga horaria de 5 horas e realizado pela **DIO**.
+- No dia **16/01/2022** - Conclui o curso **"Introdução a APIs e métodos HTTP"** com carga horaria de 2 horas e realizado pela **DIO**.
 
-**Estimativa da Carga Horaria Total: 42 horas**
+**Estimativa da Carga Horaria Total: 44 horas**
 
 -----------------
 **January**
@@ -24,5 +25,6 @@
 - On **01/14/2022** - Completed the course **"Working with States & Effects in ReactJs"** with a workload of 2 hours and carried out by **DIO**.
 - On **01/15/2022** - Completed the course **"Agile Projects with SCRUM"** with a workload of 2 hours and carried out by **DIO**.
 - On **01/16/2022** - Completed the course **"Recreating the Netflix Interface"** with a workload of 5 hours and carried out by **DIO**.
+- On **01/16/2022** - Completed the course **"Introduction to HTTP APIs and Methods"** with a 2 hours workload and carried out by **DIO**.
 
-**Estimated workload Hours: 42 hours**
+**Estimated workload Hours: 44 hours**
