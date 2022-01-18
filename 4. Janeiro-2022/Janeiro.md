@@ -11,8 +11,11 @@
 - No dia **16/01/2022** - Conclui o curso **"Recriando a Interface do Netflix"** com carga horaria de 5 horas e realizado pela **DIO**.
 - No dia **17/01/2022** - Conclui o curso **"Introdução a APIs e métodos HTTP"** com carga horaria de 2 horas e realizado pela **DIO**.
 - No dia **17/01/2022** - Conclui o curso **"Instalando e Configurando seu Ambiente Node.js"** com carga horaria de 1 horas e realizado pela **DIO**.
+- No dia **18/01/2022** - Conclui o curso **"Explorando o Estilo Arquitetural REST com Node.js"** com carga horaria de 2 horas e realizado pela **DIO**.
+- No dia **18/01/2022** - Conclui o curso **"Node.js com Bancos de Dados Relacionais (SQL)"** com carga horaria de 2 horas e realizado pela **DIO**.
+- No dia **18/01/2022** - Conclui o curso **"Microsserviços e Integrações com Node.js"** com carga horaria de 2 horas e realizado pela **DIO**.
 
-**Estimativa da Carga Horaria Total: 45 horas**
+**Estimativa da Carga Horaria Total: 51 horas**
 
 -----------------
 **January**
@@ -28,5 +31,8 @@
 - On **01/16/2022** - Completed the course **"Recreating the Netflix Interface"** with a workload of 5 hours and carried out by **DIO**.
 - On **01/17/2022** - Completed the course **"Introduction to HTTP APIs and Methods"** with a 2 hours workload and carried out by **DIO**.
 - On **01/17/2022** - Completed the course **"Installing and Configuring your Node.js Environment"** with a workload of 1 hour and carried out by **DIO**.
+- On **01/18/2022** - Completed the course **"Exploring the REST Architectural Style with Node.js"** with a workload of 2 hours and carried out by **DIO**.
+- On **01/18/2022** - Completed the course **"Node.js with Relational Databases (SQL)"** with a workload of 2 hours and carried out by **DIO**.
+- On **01/18/2022** - Completed the course **"Microservices and Integrations with Node.js"** with a workload of 2 hours and carried out by **DIO**.
 
-**Estimated workload Hours: 45 hours**
+**Estimated workload Hours: 51 hours**  
