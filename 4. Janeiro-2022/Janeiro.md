@@ -14,8 +14,9 @@
 - No dia **18/01/2022** - Conclui o curso **"Explorando o Estilo Arquitetural REST com Node.js"** com carga horaria de 2 horas e realizado pela **DIO**.
 - No dia **18/01/2022** - Conclui o curso **"Node.js com Bancos de Dados Relacionais (SQL)"** com carga horaria de 2 horas e realizado pela **DIO**.
 - No dia **18/01/2022** - Conclui o curso **"Microsserviços e Integrações com Node.js"** com carga horaria de 2 horas e realizado pela **DIO**.
+- No dia **19/01/2022** - Conclui o curso **"Integrando um Backend em Node.js com um Frontend em React para um E-commerce"** com carga horaria de 2 horas e realizado pela **DIO**.
 
-**Estimativa da Carga Horaria Total: 51 horas**
+**Estimativa da Carga Horaria Total: 53 horas**
 
 -----------------
 **January**
@@ -34,5 +35,6 @@
 - On **01/18/2022** - Completed the course **"Exploring the REST Architectural Style with Node.js"** with a workload of 2 hours and carried out by **DIO**.
 - On **01/18/2022** - Completed the course **"Node.js with Relational Databases (SQL)"** with a workload of 2 hours and carried out by **DIO**.
 - On **01/18/2022** - Completed the course **"Microservices and Integrations with Node.js"** with a workload of 2 hours and carried out by **DIO**.
+- On **01/19/2022** - Completed the course **"Integrating a Backend in Node.js with a Frontend in React for an E-commerce"** with a workload of 2 hours and carried out by ** DIO**.
 
-**Estimated workload Hours: 51 hours**  
+**Estimated workload Hours: 53 hours**  
