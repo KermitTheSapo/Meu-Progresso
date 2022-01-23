@@ -19,8 +19,9 @@
 - No dia **20/01** - Conclui o curso **"Recriando a página inicial do Instagram"** com carga horaria de 2 horas e realizado pela **DIO**.
 - No dia **20/01** - Recriei a página inicial do Instagram - https://github.com/KermitTheSapo/clone-instagram-login.
 - No dia **21/01** - Conclui o curso **"Primeiros Passos Para Começar a Programar"** com carga horaria de 4 horas e realizado pela **DIO**.
+- No dia **23/01** - Conclui o curso **"Pensamento Computacional"** com carga horaria de 2 horas e realizado pela **DIO**.
 
-**Estimativa da Carga Horaria Total: 60 horas**
+**Estimativa da Carga Horaria Total: 62 horas**
 
 -----------------
 
@@ -45,5 +46,6 @@
 - On **01/20** - Completed the course **"Recreating the Instagram homepage"** with a workload of 2 hours and carried out by **DIO**.
 - On **01/20** - I recreated the Instagram homepage - https://github.com/KermitTheSapo/clone-instagram-login.
 - On **01/21** - Completed the course **"First Steps to Start Programming"** with a workload of 4 hours and carried out by **DIO**.
+- On **01/23** - Completed the course **"Computational Thinking"** with a workload of 2 hours and carried out by **DIO**.
 
-**Estimated workload Hours: 60 hours**  
+**Estimated workload Hours: 62 hours**  
