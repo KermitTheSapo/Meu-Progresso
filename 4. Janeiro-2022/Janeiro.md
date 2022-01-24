@@ -21,8 +21,9 @@
 - No dia **21/01** - Conclui o curso **"Primeiros Passos Para Começar a Programar"** com carga horaria de 4 horas e realizado pela **DIO**.
 - No dia **23/01** - Conclui o curso **"Pensamento Computacional"** com carga horaria de 2 horas e realizado pela **DIO**.
 - No dia **23/01** - Conclui o curso **"Introdução ao Vue.js"** com carga horaria de 2 horas e realizado pela **DIO**.
+- No dia **24/01** - Conclui o curso **"Programação para internet com JavaScript"** com carga horaria de 2 horas e realizado pela **DIO**.
 
-**Estimativa da Carga Horaria Total: 64 horas**
+**Estimativa da Carga Horaria Total: 66 horas**
 
 -----------------
 
@@ -49,5 +50,6 @@
 - On **01/21** - Completed the course **"First Steps to Start Programming"** with a workload of 4 hours and carried out by **DIO**.
 - On **01/23** - Completed the course **"Computational Thinking"** with a workload of 2 hours and carried out by **DIO**.
 - On **01/23** - Completed the course **"Introduction to Vue.js"** with a workload of 2 hours and carried out by **DIO**.
+- On **01/24** - Completed the course **"Programming for the Internet with JavaScript"** with a workload of 2 hours and carried out by **DIO**.
 
-**Estimated workload Hours: 64 hours**  
+**Estimated workload Hours: 66 hours**
