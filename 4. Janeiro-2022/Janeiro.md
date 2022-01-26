@@ -23,8 +23,9 @@
 - No dia **23/01** - Conclui o curso **"Introdução ao Vue.js"** com carga horaria de 2 horas e realizado pela **DIO**.
 - No dia **24/01** - Conclui o curso **"Programação para internet com JavaScript"** com carga horaria de 2 horas e realizado pela **DIO**.
 - No dia **25/01** - Conclui o curso **"Componentes, Métodos e Ciclo de Vida com Vue.js"** com carga horaria de 2 horas e realizado pela **DIO**.
+- No dia **26/01** - Conclui o curso **"Diretivas e Propriedades de Componentes Vue.js"** com carga horaria de 2 horas e realizado pela **DIO**.
 
-**Estimativa da Carga Horaria Total: 68 horas**
+**Estimativa da Carga Horaria Total: 70 horas**
 
 -----------------
 
@@ -53,5 +54,7 @@
 - On **01/23** - Completed the course **"Introduction to Vue.js"** with a workload of 2 hours and carried out by **DIO**.
 - On **01/24** - Completed the course **"Programming for the Internet with JavaScript"** with a workload of 2 hours and carried out by **DIO**.
 - On **01/25** - Completed the course **"Components, Methods and Life Cycle with Vue.js"** with a workload of 2 hours and carried out by **DIO**.
+- On **01/25** - Completed the course **"Components, Methods and Life Cycle with Vue.js"** with a workload of 2 hours and carried out by **DIO**.
+- On **01/26** - Completed the course **"Directives and Properties of Vue.js Components"** with a workload of 2 hours and carried out by **DIO**.
 
-**Estimated workload Hours: 68 hours**
+**Estimated workload Hours: 70 hours**
