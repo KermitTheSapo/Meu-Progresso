@@ -26,8 +26,9 @@
 - No dia **26/01** - Conclui o curso **"Diretivas e Propriedades de Componentes Vue.js"** com carga horaria de 2 horas e realizado pela **DIO**.
 - No dia **27/01** - Conclui o curso **"Recriando o jogo da cobrinha com JavaScript"** com carga horaria de 2 horas e realizado pela **DIO**.
 - No dia **27/01** - Conclui o Bootcamp **"HTML Web Developer"** com carga horaria de 27 horas e realizado pela **DIO**.
+- No dia **28/01** - Conclui o curso **"Primeiros passos para desenvolvimento web"** com carga horaria de 6 horas e realizado pela **DIO**.
 
-**Estimativa da Carga Horaria Total: 72 horas**
+**Estimativa da Carga Horaria Total: 78 horas**
 
 -----------------
 
@@ -60,5 +61,6 @@
 - On **01/26** - Completed the course **"Directives and Properties of Vue.js Components"** with a workload of 2 hours and carried out by **DIO**.
 - On **01/27** - Completed the course **"Recreating the snake game with JavaScript"** with a workload of 2 hours and carried out by **DIO**.
 - On **01/27** - Finished the Bootcamp **"HTML Web Developer"** with a workload of 27 hours and carried out by **DIO**.
+- On **01/28** - Completed the course **"First steps for web development"** with a workload of 6 hours and carried out by **DIO**.
 
-**Estimated workload Hours: 72 hours**
+**Estimated workload Hours: 78 hours**
