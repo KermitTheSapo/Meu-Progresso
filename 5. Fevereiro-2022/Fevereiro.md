@@ -8,7 +8,7 @@
 -----------------
 **February - 2022**
 
-- On **01/02** - I finished the course **"Productivity and Time Management"** with a workload of 15 hours and carried out by **Conquer**.
+- On **02/01** - I finished the course **"Productivity and Time Management"** with a workload of 15 hours and carried out by **Conquer**.
 
 
 **Estimated workload Hours: 15 hours**
