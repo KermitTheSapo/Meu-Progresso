@@ -10,8 +10,9 @@
 - No dia **11/02** - Finalizei o curso **"Posicionando elementos com Flexbox em CSS"** com carga horaria de 4 horas e realizado pela **DIO**.
 - No dia **12/02** - Finalizei o curso **"JavaScript ES6 essencial"** com carga horaria de 4 horas e realizado pela **DIO**.
 - No dia **13/02** - Finalizei o curso **"Introdução prática ao Figma"** com carga horaria de 3 horas e realizado pela **DIO**.
+- No dia **07/02 a 10/02** - Participei do evento **"Disruptive Revolution II"**, sobre Tecnologías Disputarivas, negócios exponenciais e cultura digital, com carga horaria de 20 horas e realizado pela **IGTI**.
 
-**Estimativa da Carga Horaria Total: 37 horas**
+**Estimativa da Carga Horaria Total: 57 horas**
 
 -----------------
 **February - 2022**
@@ -26,5 +27,6 @@
 - On **02/11** - I finished the course **"Positioning elements with Flexbox in CSS"** with a workload of 4 hours and carried out by **DIO**.
 - On **02/12** - I finished the course **"JavaScript ES6 essential"** with a workload of 4 hours and carried out by **DIO**.
 - On **02/13** - I finished the course **"Practical Introduction to Figma"** with a workload of 3 hours and carried out by **DIO**.
+- On **02/07 to 02/10** - I participated in the event **"Disruptive Revolution II"**, about Disputing Technologies, exponential business and digital culture, with a workload of 20 hours and held by **IGTI**.
 
-**Estimated workload Hours: 37 hours**
+**Estimated workload Hours: 57 hours**
